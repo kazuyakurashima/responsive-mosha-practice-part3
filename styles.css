@@ -105,3 +105,26 @@ input, select {
 
 /* END Reset CSS */
 
+body {
+    font-family:"Helvetica Neue", Arial, "Hiragino Kaku Gothic ProN", "Hiragino Sans", Meiryo, sans-serif
+}
+
+header {
+    height: 60px;
+}
+
+#key_visual {
+    width:100%;
+}
+
+#key_visual img {
+    width: 100%;
+}
+
+main {
+    width: 100%;
+}
+
+#gourmet article figure img {
+    width: 100%;
+}
