@@ -128,3 +128,13 @@ main {
 #gourmet article figure img {
     width: 100%;
 }
+footer {
+    width: 100%;
+}
+footer ul {
+    background-color: #54514C;
+}
+footer ul li a {
+    color: #fff;
+    text-decoration: none;
+}
