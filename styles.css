@@ -112,6 +112,9 @@ body {
 
 header {
     height: 60px;
+.logo img {
+    width: 100%;
+}
 }
 
 #key_visual {
